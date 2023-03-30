@@ -10,7 +10,7 @@ body {
   font-family: "Gill Sans", sans-serif;
   line-height: 1.5;
   font-size: 14px;
-  background-color: #eae6dc;
+  background-color: #f3f6f4;
   opacity: 1;
   height: auto;
   margin: auto;
@@ -41,8 +41,6 @@ button {
   border-radius: 65px;
   text-align: center;
 }
-
-
 
 
 ul {
@@ -94,7 +92,7 @@ a {
   margin-bottom: 0%;
   padding: 0%;
   text-align: justify;
-  background-color: #EAE7DC
+  background-color: #f3f6f4
 }
 
 .working_papers {
@@ -102,7 +100,7 @@ a {
   margin-left: 20% ;
   margin-right: 20%;
   margin-bottom: 0%;
-  background-color: #EAE7DC
+  background-color: #f3f6f4
 }
 
 .work_in_progress {
@@ -110,7 +108,7 @@ a {
   margin-left: 20% ;
   margin-right: 20%;
   margin-bottom: 0%;
-  background-color: #EAE7DC
+  background-color: #f3f6f4
 }
 
 .work_title{
@@ -122,7 +120,7 @@ a {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #DADED4 ; /* background: linear-gradient(90deg, #DADED4, #EAE7DC) */
+  background-color: #bcbcbc ; /* background: linear-gradient(90deg, #bcbcbc, #f3f6f4) */
   /* border-radius: 0 20px 20px 0; */
 }
 
@@ -130,10 +128,11 @@ a {
   float: left;
 }
 
+
 .nav_social a {
   display: block;
   color: #666;
-  border: 1px solid #DADED4;
+  border: 1px solid #bcbcbc;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -198,8 +197,6 @@ a {
     margin-left: 0% ;
     margin-right: 8%;
   }
-
-
 
 /* **************************************************************** */
 /* ************************* TABLE ******************************** */
